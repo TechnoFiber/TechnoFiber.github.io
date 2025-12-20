@@ -1,5 +1,4 @@
-your_author_id: TechnoFiber
+technofiber:
   name: TechnoFiber
-  twitter:
-  url: MalwareFiber.github.io
-  # Add more fields if needed (e.g., bio isn't directly supported here, but name and url are used)
+  twitter: 
+  url: https://malwarefiber.github.io
